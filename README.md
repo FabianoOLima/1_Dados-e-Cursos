@@ -20,9 +20,9 @@ A API contém principalmente os dados das escolas e das estatísticas. O acesso 
 
 ### Python
 
-[Curso em Vídeo - Python](https://youtu.be/S9uPNppGsGo) - ótimo curso gratuito pelo Youtube, possui ótima didática e diversos exercícios com correção.
+- [Curso em Vídeo - Python](https://youtu.be/S9uPNppGsGo) - ótimo curso gratuito pelo Youtube, possui ótima didática e diversos exercícios com correção.
 
-[Python para Zumbis](https://www.pycursos.com/python-para-zumbis) - curto muito bom, também gratuito, possui diversos exercícios e desafios.
+- [Python para Zumbis](https://www.pycursos.com/python-para-zumbis) - curto muito bom, também gratuito, possui diversos exercícios e desafios.
 
 ### Analise de Dados
 
