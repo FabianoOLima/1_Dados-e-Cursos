@@ -32,6 +32,6 @@ A API contém principalmente os dados das escolas e das estatísticas. O acesso 
 
 - [LabHacker - Analíse de Dados - Aula 2](https://youtu.be/2oZHg3HOtcY) - nesta segunda aula temos 'raspagem de dados'.
 
-### Outros
+## Outros
 
 - [Aprendendo a Aprender](https://www.coursera.org/learn/aprender) - curso gratuito com ferramentas mentais poderosas para ajudá-lo a dominar assuntos difíceis
